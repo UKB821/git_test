@@ -4,7 +4,7 @@ Held at the Lily Fawkes Training Room on 5th November from 13:00 to 17:00
 ### Trainers
 Ash.    
 Mark.   
-Steph.
+Steph.<br/>
 Ujjwal.
 ## Topics
 Headings   
@@ -28,7 +28,7 @@ Combine course  | [Combine Github repo](http://combine-australia.github.io/2016-
 Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training.github.io/linear-models-r/).  
 
 Inserting graphics    e.g. coffee-break & biscuits.   
-![picture alt](Screenshots/SS1_small.png "Example image").  
+![picture text try](https://github.com/UKB821/git_test/blob/master/phdcomic.gif).  
 Tick-boxes.  
 - [ ] Have we done this?
 - [x] Have we done that?   
